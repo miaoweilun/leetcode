@@ -8,6 +8,7 @@ public class Main {
 
 class Solution {
     public int maxTaskAssign(int[] tasks, int[] workers, int pills, int strength) {
-
+            int a=0;
+            return 0;
     }
 }
